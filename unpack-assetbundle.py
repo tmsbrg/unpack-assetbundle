@@ -4,9 +4,13 @@ import os
 import sys
 import UnityPy
 
+version = "0.0.2"
+
 usage = f"""
 {sys.argv[0]}: View or extract assets from a Unity asset bundle. Using UnityPy.
 Copyright Thomas van der Berg 2022. Licensed under GNU GPLv3.
+
+Version: {version}
 
 Usage:
     {sys.argv[0]} <asset-bundle-file>                view files and file types in asset bundle
