@@ -9,4 +9,4 @@ Made for extracting files from .dfmod files for Daggerfall Unity.
 Usage:
 
     unpack-assetbundle.py <asset-bundle-file>                view files and file types in asset bundle
-    unpack-assetbundle.py <asset-bundle-file> <full-path>    extract a single file from asset bundle. Only Texture2D supported for now.
+    unpack-assetbundle.py <asset-bundle-file> <full-path>    extract a single file from asset bundle

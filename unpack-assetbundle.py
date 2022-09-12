@@ -10,7 +10,7 @@ Copyright Thomas van der Berg 2022. Licensed under GNU GPLv3.
 
 Usage:
     {sys.argv[0]} <asset-bundle-file>                view files and file types in asset bundle
-    {sys.argv[0]} <asset-bundle-file> <full-path>    extract a single file from asset bundle. Only Texture2D supported for now.
+    {sys.argv[0]} <asset-bundle-file> <full-path>    extract a single file from asset bundle
 """
 
 def view_asset_bundle(assetbundlefile):
